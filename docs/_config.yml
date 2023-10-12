@@ -1,0 +1,14 @@
+theme: jekyll-theme-minimal
+title: Knowledge Base
+description: A central place for all of Jangala's knowledge
+paginate: 5
+permalink: /:categories/:year/:month/:day/:title
+markdown: kramdown
+
+plugins:
+  - jekyll-paginate
+
+# optional
+include:
+  - _pages
+  - _posts

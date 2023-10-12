@@ -1,0 +1,132 @@
+---
+layout: default
+title: "About Us"
+permalink: /about/
+---
+
+# Welcome to Jangala! Below is some information to help you through your first few weeks
+
+## Mission
+Jangala’s mission is to connect every school, clinic and community resilience project worldwide with internet access, to ensure that societies everywhere can meet the pressing challenges of today and the uncertainties of tomorrow.
+
+## Values
+- Striving for excellence 
+- Imagination - constantly creating and looking beyond the horizon
+- Passion and fun - being active and happy with your team and your work
+- Exhilarating growth 
+- Integrity
+- Universality - By and for all people 
+- Humility - authenticity
+- Transparency 
+- Community - supporting, valuing and appreciating the team
+
+## The Team
+
+We know learning who everyone is and what they do can take a while so please see below a short summary of everyone in the organisation and their roles and responsibilities
+
+### Richard Thanki
+Department: Strategy, tech
+Title: Managing Director - Senior management team (SMT)
+Role description: Rich is the highest level member of the team. He drives Jangala’s strategy and leads on product development. Rich also frequently represents the organisation at events and in the media
+When to contact: Questions on top level strategy, product design, business development and PR opportunities. Most HR issues should go to Nils but issues or upsets that you feel cannot be spoken about to your line manager can also go to Rich.
+
+### Nils O’Hara
+Department: Finance, Operations
+Title: Director of finance, people and charity secretary - SMT
+Role description: Nils co-founded Jangala with Rich and Samson and has the leading role in the financial management of the business, manages our reporting, liaises with our legal support and is Charity Secretary. Nils also currently manages many of our HR facilities and our dispatch and logistics. 
+When to contact: Any questions about company finances. Inquires about pay, PAYE and pensions. Any HR requests around leave and most other things HR related. Legal questions, questions about systems we use and device dispatch and delivery. Nils can also assist with excel issues or modelling questions. 
+
+### Anna Hickman
+Department: Operations
+Title: Director of operations and projects - SMT
+Role description: Anna currently leads on project management and oversees processes and operations as well as assisting with strategy. 
+When to contact: Any questions about partners on the ground and questions about current operational processes.
+
+### Samson Rinaldi
+Department: Manufacturing
+Title: Director of physical product design and manufacture - SMT
+Role description: Samson is a co-founder alongside Rich and Nils and leads on the physical design of our products along with managing our manufacturing processes.
+When to contact: Any questions about physical product design, manufacturing and certification. Samson is also the person to go to for assistance with visual design, logos, company colours etc.
+
+### Claire Marshall
+Department: Fundraising
+Title: Director of fundraising and communications
+Role description: Claire leads our fundraising and comms team and is responsible for the fundraising strategy and all incoming funds whether that is corporate partnerships, trusts and foundations or individual giving. 
+When to contact: Questions about fundraising, communications, potential partnerships and ideas for events or campaigns that might help us with extra income.
+
+### John Cleasby
+Department: Tech
+Title: Head of software
+Role description: John is head of software and leads on software design and development. 
+When to contact: John should be the first port of call for questions about software or software related issues
+
+### Chris Punt
+Department: Tech
+Title: Software associate
+Role description: Chris is a member of the software team working on software design and development.
+When to contact: If John is not available or unable to help with software or software related issues, Chris should be brought in. Chris is also very good at helping think through processes and is happy to assist with interesting problems, mainly relating to software, tech and IT but also around projects and operations systems.
+
+### Heather Morris
+Department: Fundraising/Projects
+Title: Senior Project Associate
+Role description: Heather was a member of the fundraising team working on fund generation but is currently transitioning into the projects team. Her focus will be on managing projects and leading Jangala’s scoping work into new business areas and new SDGs 
+When to contact: Currently, questions on the website, comms, socials and digital fundraising, from April onwards, questions about partners and new business areas.
+
+### Leo Hernandez
+Department: Projects
+Title: Senior Project Associate
+Role description: Leo is a member of the projects team. His focus is on managing projects and operational processes around our CRM systems, instructions and accessibility, dispatch and customs.
+When to contact: Questions about projects on the ground, CRM systems and instructions/accessibility
+
+### Jess Sutton
+Department: Fundraising
+Title: Corporate partnerships manager
+Role description: Jess manages our many corporate fundraising partnerships alongside Claire in the fundraising team
+When to contact: Questions about corporate partners and corporate individual giving etc.
+
+## IT Platforms
+Below you will find information for each IT platform used by Jangala. 
+
+### Gmail
+[your name]@janga.la You will receive an invite to your personal email
+Our email platform, we use this to view, send and receive emails
+
+### Google chat
+Same as above
+We use this to speak to each other internally either in individual chats or in group chats
+
+### Google drive
+Same as above
+This is where we store all our documents
+
+### Google calendar
+Same as above
+We use this to schedule meetings and events
+
+### Clickup
+You will receive an invite to your janga.la email
+We use this to track and manage our tasks
+
+### Unifi
+If you and the SMT feel this is needed for your role, you will receive an invite to your janga.la email
+We use this to view impact numbers of partners and to manage our access points in our Big Box systems.
+
+### Yonder booking system
+You will receive an invite to your janga.la email
+We use this to book meeting rooms and call booths at our offices in Yonder. Only SMT are able to book meeting rooms but anybody can book a call booth and this is a good resource to see when the meeting room or call booths are free.
+
+### Breathe HR
+You will receive an invite to your janga.la email
+We mainly use Breathe for tracking holidays and sickness but in the future we plan to start using it more for other things like performance and training as well.
+
+
+## Facilities
+- At yonder we have a kitchen we can use with a sink and microwave. 
+- Tea and coffee making facilities are provided free of charge. 
+- On your first day you will receive access to an app that lets you use your phone to enter the building during work hours.
+- Yonder also has a cafe - as workspace users we get a 10% discount.
+- You are welcome to use Yonder climbing and gym facilities free of charge while working at Jangala. 
+- Please look at the employee handbook or speak to Nils for more details on this
+- Jangala has monitors and dongles in our office space that can be used on a first come first serve basis.
+- The nearest shop is Co-op and is 2 minutes walk away on Blackhorse Road, opposite the station.
+- Yonder Wi-Fi: Yonder Workspace pw: wideblueyonder

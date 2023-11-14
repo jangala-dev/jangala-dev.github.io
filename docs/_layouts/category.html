@@ -2,13 +2,17 @@
 layout: default
 ---
 <div>
-    <h1>{{ page.title }}</h1>
+    <h1 class="category-title">{{ page.title }}</h1>
 
-    {% for post in site.posts %}
-        {% if post.category == page.taxonomy %}
-            <h2><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h2>
-            <p>{{ post.meta | strip_html | truncate: "250" }}</p>
-            <a href="{{ site.baseurl }}{{ post.url }}">Read More</a>
-        {% endif %}
-    {% endfor %}
+    <div class="posts">
+        {% for post in site.posts %}
+            {% if post.category == page.taxonomy %}
+                <div class="post">
+                    <h2 class="post-title"><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h2>
+                    <span class="post-date">{{ post.date | date: "%d %b %Y" }}</span>
+                    <p class="post-text">{{ post.meta | strip_html | truncate: "250" }}</p>
+                </div>
+            {% endif %}
+        {% endfor %}
+    </div>
 </div>

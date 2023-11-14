@@ -9,13 +9,13 @@
     {% endfor %}
 
     {% for parent in parent_categories %}
-        <li class="category"><a href="{{ site.baseurl }}/{{ parent }}">{{ parent }}</a></li>
+        <li class="category"><a href="{{ site.baseurl }}/{{ parent }}">{{ parent | replace: '_', ' ' }}</a></li>
         <ul class="subcategories">
             {% for category in site.categories %}
                 {% assign catParts = category[0] | split: "/" %}
                 {% if catParts[0] == parent and catParts.size > 1 %}
                     <li class="subcategory">
-                        <a href="{{ site.baseurl }}/{{ category[0] }}">{{ catParts[1] }}</a>
+                        <a href="{{ site.baseurl }}/{{ category[0] }}">{{ catParts[1] | replace: '_', ' ' }}</a>
                     </li>
                 {% endif %}
             {% endfor %}

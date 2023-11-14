@@ -1,0 +1,11 @@
+source 'https://rubygems.org'
+
+# Jekyll
+gem 'jekyll', '~> 4.2.0' # Use the version that matches your Jekyll installation
+gem 'webrick', '~> 1.7'  # Add webrick to your Gemfile
+
+# Theme
+gem 'jekyll-theme-minimal'
+
+# Plugins
+gem 'jekyll-paginate'

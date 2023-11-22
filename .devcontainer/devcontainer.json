@@ -1,0 +1,13 @@
+{
+    "name": "My Ruby Dev Container",
+    "context": "..",
+    "dockerFile": "Dockerfile",
+    "settings": { 
+        "terminal.integrated.defaultProfile.linux": "bash"
+    },
+    "extensions": [
+        "rebornix.ruby"
+    ],
+    "forwardPorts": [4000],
+    "remoteUser": "root"
+}

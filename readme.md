@@ -1,9 +1,6 @@
 ## Host Locally
-### To build
-```docker build -t jekyll-site .```
+### Open in devcontainer in vscode
+Open in devcontainer in vscode
 
-### To run
-```docker run --rm -p 4000:4000 -v "$PWD/docs:/app" jekyll-site```
-
-## Themes
-Themes here: https://pages.github.com/themes/
+### To Run
+```bundle exec jekyll serve --host=0.0.0.0```

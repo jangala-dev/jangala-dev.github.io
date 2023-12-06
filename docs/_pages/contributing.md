@@ -17,12 +17,23 @@ permalink: /contributing/
 <p>Step 2 - Click “Add file” and then click “Create new file”:</p>
 <img align="center" src="{{ '/assets/img/contributing2.png' | relative_url }}" width="30%" />
 
-<p>Step 3 - Create a title name. The title should be the current data, followed by the topic name, and then .md:
+<p>Step 3 - Create a name for the file. The name should be the current date in YYYY-MM-DD format, followed by the topic name (hyphen-separated), and then .md:
 </p>
 <img align="center" src="{{ '/assets/img/contributing3.png' | relative_url }}" width="30%" />
 
-<p>Step 4 - Add post metadata at top of posts. Copy and past the example below (feel free to look at other posts for examples):</p>
-<img align="center" src="{{ '/assets/img/contributing4.png' | relative_url }}" width="50%" />
+<p>Step 4 - Add post metadata at top of posts. Copy and paste the example below (feel free to look at other posts for examples):</p>
+
+<pre>
+<code>
+---
+layout: post
+title: REPLACE WITH TITLE e.g. Example Post
+meta: This text will show as the preview to the post
+posted: REPLACE WITH DATE e.g. 12/10/2023
+category: REPLACE WITH CATEGORY. This should be the folder you want the post to sit in, e.g. organisation or organisation/the_need_for_jangala
+---
+</code>
+</pre>
 
 <p>
 Step 5 - Create the content. Here we can use markdown to write our post. Look at other articles for help:
@@ -53,21 +64,23 @@ Once we have completed these steps our post should look like this:
 
 <h2 id="addingAFolderCategory">Adding a New Folder / Category</h2>
 <p>
-We can add new folders _posts but there are some limitations. We can only go two folders deep before they are no longer displayed. This is due to limitations with github pages being static. For each new folder added a corresponding category needs to get added <a href="https://github.com/jangala-dev/jangala-dev.github.io/tree/main/docs/_pages/categories" target="_blank">here</a>.
+We can add new folders to the knowledge base but there are some limitations. We can only go two folders deep before they are no longer displayed. For example, we can have subfolders like 'The Need for Jangala' within the top-level folder 'Organisation', but no subfolders can be created within the 'The Need for Jangala.' This is due to limitations with github pages being static.
 </p>
 
 <p>
-Step 1 - To add a new document apply the explanation in <a href="#creatingAPost">"Creating A Post"</a> but in the folder linked above. The new document will need to look like the following:
+Step 1 - You will first need to create a file defining the new category. Apply the explanation of creating a file in <a href="#creatingAPost">"Creating A Post"</a> but in the <a href="https://github.com/jangala-dev/jangala-dev.github.io/tree/main/docs/_pages/categories" target="_blank">categories</a> folder instead. The new document will need to look like the following:
 </p>
 
-<p style="white-space: pre;">
+<pre>
+<code>
 ---
 layout: category
 title: "Our Partners And Deployments"
 permalink: /organisation/our_partners_and_deployments/
 taxonomy: organisation/our_partners_and_deployments
 ---
-</p>
+</code>
+</pre>
 
 <p>
 layout should remain as "category". Title should be what we want to appear when we click on the category in the sidebar. The permalink and taxonomy should just be the path to the folder from _posts. Permalink needs "/" at the start and the end.
@@ -77,6 +90,10 @@ layout should remain as "category". Title should be what we want to appear when 
 Step 2 - Click “Commit changes…” and then follow the <a href="#createPullRequests">“Creating Pull Requests”</a> section in the knowledge base guide:
 </p>
 <img align="center" src="{{ '/assets/img/contributing5.png' | relative_url }}" width="30%" />
+
+
+<p>Step 3 - After this, go back to <a href="https://github.com/jangala-dev/jangala-dev.github.io/tree/main/docs/_posts" target="_blank">_posts</a>. Follow the directions in <a href="#creatingAPost">"Creating A Post"</a> to create your post. The only additional step is with regards to naming the file, as you will need to specify a new path for the file since you are creating a new folder. Rather than naming your file e.g. "2023-12-5-Example.md", name it e.g. "software/2023-12-5-Example.md" if you have created a new category called "software", and Github will create the new folder for you.
+</p> 
 
 
 <h2 id="createPullRequests">Creating Pull Requests</h2>

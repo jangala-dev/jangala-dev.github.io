@@ -35,4 +35,6 @@ Big Box by Jangala is a lightweight briefcase-sized device that transforms any f
 ## Future
 BBv1, our scalable Big Box, is set to be our first readily available product, currently being developed until 2024, with increased capabilities and full certification.
 
+Cool new content
+
 <img src="{{ '/assets/img/bb-footer.png' | relative_url }}" width="100%" />

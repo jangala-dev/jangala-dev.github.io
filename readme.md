@@ -3,4 +3,8 @@
 Open in devcontainer in vscode
 
 ### To Run
-```bundle exec jekyll serve --host=0.0.0.0```
+
+```
+cd docs
+bundle exec jekyll serve --host=0.0.0.0
+```

@@ -721,3 +721,44 @@ screen and (max-width: 480px) {
         url('../fonts/Noto-Sans-700italic/Noto-Sans-700italic.ttf') format('truetype'),
         url('../fonts/Noto-Sans-700italic/Noto-Sans-700italic.svg#NotoSans') format('svg');
 }
+
+.pagination {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 20px;
+}
+
+.pagination-item {
+    margin: 0 10px;
+    padding: 8px 15px;
+    background-color: #5c589e;
+    /* Primary button color */
+    color: white;
+    text-decoration: none;
+    border-radius: 5px;
+    transition: background-color 0.3s, color 0.3s;
+    display: inline-block;
+    vertical-align: middle;
+}
+
+.pagination-item:hover {
+    background-color: #484580;
+    /* Darker shade for hover */
+    color: #fff;
+    /* Keeps the text color white on hover */
+}
+
+.pagination-info {
+    margin: 0 10px;
+    color: #5c589e;
+    /* Color for the info text */
+}
+
+.disabled {
+    background-color: #7c789e;
+    /* Lighter shade for disabled */
+    pointer-events: none;
+    color: #fff;
+    /* White text color for disabled items */
+}

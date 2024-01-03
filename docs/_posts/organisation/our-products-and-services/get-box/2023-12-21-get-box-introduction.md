@@ -1,9 +1,6 @@
 ---
 layout: post
 title: Get Box Introduction
-meta: Get Box is the answer to overcoming digital divides, offering practical solutions...
-posted: 21/12/2023
-source: ''
 category: organisation/our_products_and_services
 ---
 # Introducing the Get Box

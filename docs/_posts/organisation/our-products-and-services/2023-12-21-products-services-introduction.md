@@ -1,9 +1,6 @@
 ---
 layout: post
 title: Our Products And Services Introduction
-meta: Since 2018, Jangala has been working on developing and implementing...
-posted: 21/12/2023
-source: ''
 category: organisation/our_products_and_services
 ---
 ## Introduction

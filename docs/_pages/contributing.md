@@ -28,8 +28,6 @@ permalink: /contributing/
 ---
 layout: post
 title: REPLACE WITH TITLE e.g. Example Post
-meta: This text will show as the preview to the post
-posted: REPLACE WITH DATE e.g. 12/10/2023
 category: REPLACE WITH CATEGORY. This should be the folder you want the post to sit in, e.g. organisation or organisation/the_need_for_jangala
 ---
 </code>

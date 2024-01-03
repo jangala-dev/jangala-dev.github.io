@@ -1,7 +1,7 @@
 theme: jekyll-theme-minimal
 title: Knowledge Base
 description: A central place for all of Jangala's knowledge
-paginate: 5
+paginate: 10
 permalink: /:categories/:year/:month/:day/:title
 markdown: kramdown
 

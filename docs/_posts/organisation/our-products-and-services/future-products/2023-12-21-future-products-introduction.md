@@ -1,9 +1,6 @@
 ---
 layout: post
 title: Future Products Introduction
-meta: Jangala is set to expand its innovative product line with new solutions catering...
-posted: 21/12/2023
-source: ''
 category: organisation/our_products_and_services
 ---
 # Future Products and Services from Jangala

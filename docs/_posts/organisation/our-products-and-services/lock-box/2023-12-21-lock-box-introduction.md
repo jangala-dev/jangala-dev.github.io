@@ -1,9 +1,6 @@
 ---
 layout: post
 title: Lock Box Introduction
-meta: Big Box by Jangala is a lightweight briefcase-sized device that transforms any form of internet connectivity into Wifi that is easy to manage and scale...
-posted: 21/12/2023
-source: ''
 category: organisation/our_products_and_services
 ---
 # Introducing Lock Box

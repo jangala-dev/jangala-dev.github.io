@@ -1,9 +1,6 @@
 ---
 layout: post
 title: Big Box Introduction
-meta: Big Box by Jangala is a lightweight briefcase-sized device that transforms any form of internet connectivity into Wifi that is easy to manage and scale...
-posted: 12/10/2023
-source: ''
 category: organisation/our_products_and_services
 ---
 <img src="{{ '/assets/img/bb-header.png' | relative_url }}" width="100%" />

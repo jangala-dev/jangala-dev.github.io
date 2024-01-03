@@ -1,9 +1,6 @@
 ---
 layout: post
 title: The Need For Jangala Introduction
-meta: High-quality internet access is essential to respond effectively to humanitarian emergencies and for a country’s longer-term development...
-posted: 12/10/2023
-source: ''
 category: organisation/the_need_for_jangala
 ---
 ## The Need for Jangala

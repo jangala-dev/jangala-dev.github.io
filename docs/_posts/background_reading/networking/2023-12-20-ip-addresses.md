@@ -1,9 +1,6 @@
 ---
 layout: post
 title: Ip Addresses
-meta: An IP address is a unique identifier for a device on a network...
-posted: 12/20/2023
-source: ''
 category: background_reading/networking
 ---
 ## What is an IP Address?

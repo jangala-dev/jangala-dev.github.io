@@ -1,9 +1,6 @@
 ---
 layout: post
 title: Our On-the-ground Partners and Projects
-meta: ''
-posted: 20/12/2023
-source: ''
 category: organisation/our_partners_and_deployments
 ---
 

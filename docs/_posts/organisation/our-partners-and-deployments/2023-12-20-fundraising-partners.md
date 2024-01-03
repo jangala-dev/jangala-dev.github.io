@@ -1,9 +1,6 @@
 ---
 layout: post
 title: Our Fundraising Partners
-meta: ''
-posted: 20/12/2023
-source: ''
 category: organisation/our_partners_and_deployments
 ---
 

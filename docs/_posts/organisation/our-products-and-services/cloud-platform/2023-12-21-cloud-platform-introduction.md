@@ -1,9 +1,6 @@
 ---
 layout: post
 title: Cloud Platform Introduction
-meta: Jangala's cloud platform is set to offer a wide range of features to make...
-posted: 21/12/2023
-source: ''
 category: organisation/our_products_and_services
 ---
 ## Introduction

@@ -1,9 +1,6 @@
 ---
 layout: post
 title: Networking Introduction
-meta: In this Article, we dive into the world of networking...
-posted: 12/20/2023
-source: ''
 category: background_reading/networking
 ---
 ## Networking: How you got to the Knowledge Base

@@ -3,18 +3,19 @@ layout: post
 title: Networking Introduction
 category: background_reading/networking
 ---
-## Networking: How you got to the Knowledge Base
+## Networking Introduction: How you got to the Knowledge Base
+
 ### Summary
-In this Article, we dive into the world of networking – the essential framework enabling your access to this knowledge base. We'll trace the journey from the initial click to the moment this page loads, spotlighting the  technologies and protocols that allowed for this process.
+In this article, we dive into the world of networking – the very backbone of the internet that enables you to access websites like this knowledge base. We'll trace the journey from your initial click onto the website, right through to the moment the page loads on your screen. In doing so, we'll spotlight the key technologies and protocols that facilitate this intricate process, offering a glimpse into the hidden mechanics of the digital world.
 
 ### The Electromagnetic Spectrum: Our Starting Point
-Our journey starts with the electromagnetic spectrum, a vast expanse of frequencies ranging from radio waves to gamma and X-rays. In the world of networking, we concentrate on radio waves, the conduits for Wi-Fi (2.4-6 GHz) and cellular signals (2G to 5G). These waves create the unseen web of our digital connectivity.
+Our exploration begins with the electromagnetic spectrum, an extensive range of frequencies that include radio waves, vital for Wi-Fi (2.4-6 GHz) and cellular signals (2G to 5G). These waves form the foundation of our unseen digital connectivity.
 
 ### Wi-Fi: The Unseen Link
-Let's assume your current device connection is via Wi-Fi which is being broadcasted by Big Box. This technology employs radio waves to form a bridge between your devices and the internet, operating across 2.4GHz, 5GHz, and 6GHz frequencies. Each band offers a unique balance of coverage and speed, tailored to different environmental needs.
+Assuming your current connection is via Wi-Fi, broadcasted by Big Box, we delve into how this technology uses radio waves to connect your devices to the internet across 2.4GHz, 5GHz, and 6GHz frequencies. Each band offers a distinct balance of coverage and speed, catering to various environmental needs.
 
 ### Jangala's Innovations: Big Box and Get Box
-Our Big Box broadcasts on both 2.4 and 5GHz frequencies, while the Get Box focuses solely on the 2.4GHz band. To ensure comprehensive network coverage, we also deploy access points, enhancing the reach and reliability of the wifi network.
+Focusing on our innovations, Big Box broadcasts on both 2.4 and 5 GHz frequencies, while the Get Box is dedicated to the 2.4GHz band. We enhance network coverage and reliability through strategically placed access points.
 
 ### Routers: The Navigators of Your Network
 Routers are the pivotal elements that direct internet traffic within your network. Our Big Box serves as a dynamic router, skillfully managing data flow, even under limited internet speed conditions, ensuring a consistent and efficient online experience.
